@@ -13,6 +13,9 @@
 - 🌱 Currently learning c++ and fullstack development at school
 - 🏗️ Experimenting with a lot of different technologies and coding languages
 
+### 🔨 Current Projects
+- [MiniNeuron](https://github.com/TopiLep/MiniNeuron) — Small neural network library written from scratch in c++
+
 ---
 
 ### 🛠️ Skills
