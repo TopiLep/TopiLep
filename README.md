@@ -2,7 +2,7 @@
 <h3 align="center">Student at Länsirannikon Koulutus Oy WinNova</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=topilep&label=Profile%20views&color=0e75b6&style=flat" alt="topilep" />
+  <img src="https://img.shields.io/badge/Profile%20views-374-blue?style=flat" alt="Profile views" />
 </p>
 
 ---
