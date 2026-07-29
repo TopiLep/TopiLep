@@ -17,6 +17,7 @@
 
 ### 🔨 Projects
 - [MiniNeuron](https://github.com/TopiLep/MiniNeuron) — Small neural network library written from scratch in c++
+- [Chip-8 Emulator](https://github.com/TopiLep/Chip8Emulator) - Chip-8 Emulator with a Qt widgets gui, written in c++
 
 ---
 
