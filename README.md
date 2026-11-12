@@ -11,13 +11,21 @@
 
 ### 👋 About Me
 - 💻 Passionate about coding and problem solving
-- 🎮 Love playing games (RDR2, Ghost of Tsushima, etc)
+- 🎮 Love playing games 
 - 🌱 Currently learning C++, Qt, and full-stack web development
 - 🏗️ Experimenting with a lot of different technologies and coding languages
 
 ### 🔨 Projects
 - [MiniNeuron](https://github.com/TopiLep/MiniNeuron) — Small neural network library written from scratch in c++
 - [Chip-8 Emulator](https://github.com/TopiLep/Chip8Emulator) - Chip-8 Emulator with a Qt widgets gui, written in c++
+
+---
+
+### 💡 Hackathons & Events
+
+- **Since AI 2026** — Attendee
+  - **MLH Workshop:** Hacking with Copilot
+  - **MLH Workshop:** Intro to Google AI Studio
 
 ---
 
